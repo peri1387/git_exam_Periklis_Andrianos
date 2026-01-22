@@ -1,6 +1,5 @@
-**My Git Exam Project - Main Branch Version**
+# My Git Exam Project - Merged Version
 
-&nbsp; 
 
 * This is my first Git project
 * I am learning version control
